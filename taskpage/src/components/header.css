@@ -1,0 +1,16 @@
+.cirContainer{
+    display: flex;
+}
+
+.cirbox{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(233, 202, 202);
+    margin:10px;
+}
+.cirimage{ 
+    width: 50%;
+    height: 100%;
+    object-fit: contain;
+}

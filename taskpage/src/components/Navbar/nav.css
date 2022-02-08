@@ -1,0 +1,22 @@
+.navG {
+  display: flex;
+  flex-direction: row;
+  background-color: #3f3e3e;
+  height: 60px;
+  align-items: center;
+  width:100%;
+  border-top: 3px solid black;
+  border-bottom: 8px solid gray;
+}
+.navG > div{
+    width:60%;
+    display:flex;
+    justify-content: space-around;
+    margin:auto;
+}
+.opt {
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
